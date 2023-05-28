@@ -37,6 +37,7 @@ Desempenho dos halterofilistas:
 d = 1 + (força * 1.0) + (resistência * 0.6) + (fôlego * 0.4) + (flexibilidade * 0.3) + (peso/100) - (nrLesões/10)
 
 As listas dos atletas estão disponíveis por meio de três arquivos JSON distintos. Cada arquivo contém os atletas que irão participar de cada uma das modalidades esportivas. O exemplo aseguir ilustra o conteúdo do arquivo:
+
 ![exemplo-json](img/example-json.png)
 
 Os atletas contidos nos arquivos devem ser inscritos nas suas respectivas competições, sendo necessário cumprir os seguintes requisitos:
