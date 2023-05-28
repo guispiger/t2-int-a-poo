@@ -47,3 +47,5 @@ Os atletas contidos nos arquivos devem ser inscritos nas suas respectivas compet
 
 Os atletas que cumprem os requisitos são incluídos na competição. Entretanto, os atletas não admitidos deverão ser excluídos da competição. Ao término da simulação, o programa deve gerar um arquivo JSON para informar o resultado de cada modalidade. O nome do arquivo deve obedecer o seguinte padrão: resultado-\<modalidade\>.json. Os atletas que não cumprem os requisitos para participar das competições também devem ser registrados em um arquivo JSON, que deve ser nominado pelo padrão: inscricoes-negadas-\<modalidade\>.json.
 
+Para executar o arquivo compactado digite no terminal
+`` java -jar t2-guilhermebspiger-executavel.java ``
