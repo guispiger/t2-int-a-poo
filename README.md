@@ -50,3 +50,5 @@ Os atletas que cumprem os requisitos são incluídos na competição. Entretanto
 
 Para executar o arquivo compactado digite no terminal
 `` java -jar t2-guilhermebspiger-executavel.java ``
+
+Requer Java 18.0.2
